@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.labrats.atom</groupId>
+  <artifactId>atom-api</artifactId>
+  <versioning>
+    <release>API-0.0.4</release>
+    <versions>
+      <version>API-0.0.2</version>
+      <version>API-0.0.3</version>
+      <version>API-0.0.4</version>
+    </versions>
+    <lastUpdated>20250726211353</lastUpdated>
+  </versioning>
+</metadata>
