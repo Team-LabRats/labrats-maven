@@ -6,7 +6,7 @@ This is the API for AtomInterface.
 // for forge minecraft
 dependencies {
     ... dependicy ... 
-    minecraftLibrary "org.labrats.atom:atom-api:API-0.0.5"
+    minecraftLibrary "org.labrats.atom:atom-api:API-0.1.0"
 
     // dependicy for atom
     minecraftLibrary "org.labrats:reflections:0.0.1"
